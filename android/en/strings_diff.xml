@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+    <string name="app_name">FangCloud</string>
+    <!-- externsion upload -->
+    <string name="upload_to_egeio">  Upload to FangCloud  </string>
+
+    <!-- record device permission -->
+    <string name="desc_record_way1">Option 1: Go to Settings - Security - Privilege Management Program - FangCloud - Audio Recoding, and set as allow;</string>
+    <string name="desc_record_way2">Option 2: Go to 360 Safe Guard - Security Protection - Privacy Behavior Monitoring - Privacy Rights Management - FangCloud - Audio Recording, and set as allow;</string>
+    <string name="desc_record_way3">Option 3: Please find FangCloud and set the permission of audio recording to allow if you have any other permission management tools.</string>
+
+    <string name="copyright">Hangzhou Yifangyun Network Technology Co., Ltd. All rights reserved.</string>
+</resources>

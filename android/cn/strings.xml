@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- common-->
+    <string name="loading">正在加载</string>
+    <string name="loading_1_with_ending">加载中...</string>
+    <string name="unknow_error">未知错误</string>
+    <string name="tips">提示</string>
+    <string name="password">密码</string>
+    <string name="skip">跳过</string>
+    <string name="server_space">容量</string>
+    <string name="upload">上传</string>
+    <string name="create_folder">新建文件夹</string>
+    <string name="photo">相册</string>
+    <string name="tranList">传输列表</string>
+    <string name="description">说明</string>
+    <string name="about">关于</string>
+    <string name="size">大小</string>
+    <string name="file_name">文件名</string>
+    <string name="folder_name">文件夹名</string>
+    <string name="offline">离线</string>
+    <string name="phone">电话</string>
+    <string name="mobile_phone">手机</string>
+    <string name="leave_message">留言</string>
+    <string name="come_from_somewhere">来自%1$s</string>
+    <string name="date">日期</string>
+    <string name="current">当前</string>
+    <string name="link">链接</string>
+    <string name="title">标题</string>
+    <string name="collapse">收起</string>
+    <string name="avatar">头像</string>
+    <string name="name">名字</string>
+    <string name="company">公司</string>
+    <string name="property">属性</string>
+    <string name="save">保存</string>
+    <string name="not_save">不保存</string>
+    <string name="save_failed">保存失败，请重试</string>
+    <string name="remarks">备注</string>
+    <string name="remarks_with_info">备注：%1$s</string>
+
+    <!-- tabs -->
+    <string name="Message">消息</string>
+    <string name="File">文件</string>
+    <string name="Contacts">同事</string>
+    <string name="setting">设置</string>
+
+    <!-- buttons -->
+    <string name="login">登录</string>
+    <string name="exit">退出</string>
+    <string name="ok">确定</string>
+    <string name="done">完成</string>
+    <string name="next">下一步</string>
+    <string name="cancel">取消</string>
+    <string name="submit">提交</string>
+    <string name="LoginOut">登出</string>
+    <string name="know">知道了</string>
+    <string name="create">创建</string>
+    <string name="invite">邀请</string>
+    <string name="open_file">查看文件</string>
+    <string name="open_folder">查看文件夹</string>
+    <string name="accept_folder">加入文件夹</string>
+    <string name="accept_file">加入文件</string>
+    <string name="send">发送</string>
+
+    <!-- file types -->
+    <string name="menu_all_filder">全部文件</string>
+    <string name="menu_mark">收藏夹</string>
+    <string name="menu_trash">回收站</string>
+    <string name="menu_downloaded_files">离线文件</string>
+    <string name="menu_persional_folder">个人文件</string>
+    <string name="menu_collab_folder">协作文件</string>
+    <string name="cancel_offline">取消离线</string>
+    <string name="menu_department_folder">部门文件</string>
+    <string name="current_folder">当前文件夹</string>
+
+    <!-- upload menu items -->
+    <string name="menu_photo">拍照</string>
+    <string name="menu_photo_select">媒体库</string>
+    <string name="take_photo">拍照上传</string>
+    <string name="all_files">更多文件</string>
+
+    <string name="externsion_title_by_appname">上传到%1$s</string>
+    <string name="selecte_operate_folder">选择目标文件夹</string>
+    <string name="selecte_savein_folder">选择保存位置</string>
+
+    <!-- more menu items -->
+    <string name="downloaded_origin_file">下载原文件并打开</string>
+    <string name="downloaded_files_tolocal">离线到本地</string>
+    <string name="marked_folder">加入收藏</string>
+    <string name="cancel_marked">取消收藏</string>
+    <string name="tips_marked_folder">加入收藏后在顶部下拉菜单中的“收藏夹”中可以快速找到噢！</string>
+    <string name="exception_file_locked_with_locker">不能完成操作，%1$s（%2$s）锁定了文件</string>
+    <string name="select_form_photo">从相册选择</string>
+    <string name="save_to_photo">保存到相册</string>
+    <string name="viewer_image_2048">查看高清版本</string>
+    <string name="restore">还原</string>
+    <string name="cooperation">协作</string>
+    <string name="label">标签</string>
+    <string name="rename">重命名</string>
+    <string name="delete">删除</string>
+    <string name="view">审阅</string>
+    <string name="down">下载</string>
+    <string name="more">更多</string>
+    <string name="copy">复制</string>
+    <string name="move">移动</string>
+    <string name="update">更新</string>
+    <string name="modify">修改</string>
+    <string name="copyormove">移动/复制</string>
+    <string name="more_menuitems">更多功能</string>
+
+
+    <!-- transport list -->
+    <string name="file_list">文件列表</string>
+    <string name="upload_list">上传列表</string>
+    <string name="uploadfile">上传文件</string>
+
+    <!-- contact -->
+    <string name="select">选择</string>
+    <string name="select_member">选择同事</string>
+    <string name="select_member_at_least_one">选择同事(至少选择一个)</string>
+    <string name="select_department">选择部门</string>
+    <string name="select_group">选择群组</string>
+    <string name="select_all">选择全部</string>
+    <string name="invite_member">邀请同事</string>
+    <string name="contact_detail">同事详情</string>
+    <string name="delete_member">删除成员</string>
+    <string name="contact_count">%1$s个同事</string>
+    <string name="labels_count">等%1$s个标签</string>
+    <string name="include_labels_by_count">包含%1$s个标签</string>
+    <string name="contact_delete_comment">被删除后，我们将进行以下处理：</string>
+    <string name="contact_delete_comment_0">●&#160;&#160;他拥有的所有文件（包括个人文件和拥有的协作文件夹）将被打包放入一个名为%1$s的文件夹，并放入您的根目录（同时您将成为协作文件夹的新拥有者，原有的其他协作成员不受影响）；</string>
+    <string name="contact_delete_comment_1">●&#160;&#160;他的回收站将被清空；</string>
+    <string name="contact_delete_comment_2">●&#160;&#160;他创建的分享链接不受影响（您可以编辑分享链接）；</string>
+    <string name="contact_delete_comment_3">●&#160;&#160;他发起的审阅将自动结束（参与人不能浏览审阅文件）；</string>
+    <string name="contact_delete_comment_4">●&#160;&#160;将他从参与的协作、审阅、群组中移除；</string>
+    <!--<string name="contact_delete_comment_5">●&#160;&#160;他锁定的文件将自动解锁；</string>-->
+    <string name="contact_delete_comment_6">●&#160;&#160;他管理的群组将移交给您；</string>
+    <string name="contact_delete_comment_7">●&#160;&#160;他产生的信息（包括评论、审阅回复等）将被保留，但姓名后将标注“已注销”。</string>
+    <string name="contact_delete_comment_8">以上处理所需时间视文件数量而定，请耐心等待。</string>
+    <string name="current_list_empty">当前列表为空</string>
+
+    <string name="admin_delete_worker_tip">确定要删除该成员吗？该操作不可还原</string>
+    <string name="deleting">正在删除</string>
+    <string name="deleted">已删除</string>
+    <string name="delete_success">删除成功</string>
+    <string name="delete_fault">删除失败</string>
+
+
+    <!-- message types -->
+    <string name="confirm_marked_all_msg_or_not">确定要将所有消息标记为已读吗？</string>
+    <string name="confirm_del_msg_or_not_and_cant_restore">确定要删除该消息吗？删除后不能被还原</string>
+
+    <string name="you_start_one_review">你发起了审阅</string>
+    <string name="someone_invite_join_review">%1$s邀请你加入审阅</string>
+
+    <!-- user info update -->
+    <string name="update_name">修改名字</string>
+    <string name="update_avatar">修改头像</string>
+
+    <!-- login -->
+    <string name="loading_enterprise_source">正在下载资源</string>
+    <string name="noresult">无结果</string>
+
+    <!-- share -->
+    <string name="share">分享</string>
+    <string name="share_again">再次分享</string>
+    <string name="share_access_info">%1$s可访问/%2$s/%3$s</string>
+    <string name="anyone">任何人</string>
+    <string name="openGroup">公司成员</string>
+    <string name="canbedownload">可下载</string>
+    <string name="disabledownload">不可下载</string>
+    <string name="creating_sharelink">正在创建分享链接</string>
+    <string name="getting_sharelink">正在获取分享链接</string>
+    <string name="accessSet">权限设置</string>
+    <string name="editPermission">设置权限</string>
+    <string name="delete_link">删除链接</string>
+    <string name="sure_save_edit">要保存本次编辑吗？</string>
+    <string name="tips_to_install_wechat">请先安装微信</string>
+
+    <string name="share_info_register_and_join">立即注册%1$s帐号并加入%2$s</string>
+    <string name="share_info_invite_join">邀请你加入%1$s</string>
+    <string name="share_info_invite_join_with_end_link">邀请你加入%1$s——企业文件管理专家：%2$s</string>
+
+    <string name="share_be_encrypted_enter_pwd">该分享已加密，请输入密码</string>
+
+    <string name="share_success">分享成功</string>
+
+    <string name="has_set_pwd">已设置密码</string>
+    <string name="everyone_can_visit">任何人可访问</string>
+    <string name="only_company_member_can_visit">仅限公司成员访问</string>
+
+    <string name="check_share">查看分享</string>
+
+    <string name="qq_share_failed">QQ分享失败</string>
+
+    <string name="set_share_link">设置邀请链接</string>
+
+    <string name="click_copy_to_clipboard_press_right_top_toshare">点击链接复制到剪贴板，您也可以点击右上角再次分享。</string>
+    <string name="save_success">保存成功</string>
+
+
+    <!-- share permission -->
+    <string name="share_opengroup">公司成员</string>
+    <string name="share_openterm">此文件夹的协作成员</string>
+    <string name="downloadable">允许下载</string>
+    <string name="diedline">截止日期</string>
+    <string name="dayofexpire">访问期限</string>
+    <string name="notset">未设置</string>
+    <string name="setpassword">设置密码</string>
+    <string name="passwordset">密码设置</string>
+    <string name="never">从不</string>
+    <string name="share_link_invalid_and_reset_end_date">分享链接已过期，请重新设置截止日期</string>
+
+    <string name="permission_setting_has_update">权限设置已更新</string>
+    <string name="change_premission_setting">更改权限设置</string>
+    <string name="changing_premission_setting">正在更新权限设置</string>
+
+    <string name="sending_share">正在发送分享</string>
+
+    <string name="select_at_least_one_sharer">请至少选择一个分享者</string>
+    <string name="share_link_invalid_and_reset_permission">分享链接已过期，请修改权限设置</string>
+    <string name="share_link_cppy_to_clipboard">分享链接已复制到剪贴板</string>
+    <string name="delete_share_link_success">分享链接已删除</string>
+    <string name="delete_share_link">删除分享链接</string>
+
+    <string name="access_permission">访问权限</string>
+    <string name="share_premission_tip_everyone">收到分享的所有人（无需登录）均可访问此内容。</string>
+    <string name="share_premission_tip_company">只有您所在公司的成员才可以访问此内容。</string>
+    <string name="share_premission_tip_collaber">只有此文件夹的协作成员才可以访问此内容（可在网页版查看、设置协作成员）。</string>
+    <string name="share_premission_tip_download">开启时收到分享的人将可以下载此内容。</string>
+    <string name="share_premission_tip_expire_time">开启后，在你设置的截止日期当日24:00时该分享将会自动失效。</string>
+    <string name="share_premission_tip_password">开启后，收到分享的人需要输入你设置的密码才能访问此内容。</string>
+
+    <string name="need_password">需要密码</string>
+
+
+    <!-- share to -->
+    <string name="colleague">发送给同事</string>
+    <string name="qq_msg">微信</string>
+    <string name="sms">短信</string>
+    <string name="mailbox">邮箱</string>
+    <string name="email">邮件</string>
+    <string name="QQ">QQ</string>
+    <string name="copy_url">复制链接</string>
+
+    <!-- share tips -->
+    <string name="share_not_exist">此分享内容已不存在, 请联系分享人</string>
+    <string name="share_expire">此分享已过期, 请联系分享人</string>
+    <string name="share_not_found">此分享已失效, 请联系分享人</string>
+
+    <!-- invite collab -->
+    <string name="insidemember">公司成员</string>
+    <string name="outsidemember">外部协作成员</string>
+    <string name="invite_insidemember">邀请公司成员</string>
+    <string name="invite_Outsidemember">邀请外部协作成员</string>
+    <string name="invite_collabermember">邀请协作成员</string>
+    <string name="cleanTrash">彻底删除</string>
+    <string name="send_review">发起审阅</string>
+
+    <string name="member">人</string>
+    <string name="department">部门</string>
+    <string name="group">群组</string>
+    <string name="group_name">群组名：%1$s</string>
+    <string name="department_name">部门名：%1$s</string>
+    <string name="tips_contact_thumb_change">点击图标进入详情页</string>
+
+    <string name="tips_department_name_change">点击部门名字进入详情页</string>
+    <string name="login_name">账号</string>
+
+
+
+    <!-- file info -->
+    <string name="file_count">%1$d个文件夹，%2$d个文件</string>
+
+    <!-- file preview -->
+    <string name="repertation_download">正在生成预览</string>
+    <string name="enter_password">请输入密码</string>
+    <string name="document_open_failed">文档打开失败</string>
+    <string name="comment">评论</string>
+    <string name="originversion">历史版本</string>
+    <string name="tips_director_change">点此快速跳转文件目录</string>
+    <string name="tips_browser_comment">查看评论</string>
+    <string name="tips_browser_share">分享文件</string>
+    <string name="tips_browser_review">发起审阅</string>
+    <string name="tips_browser_hostory">历史版本</string>
+
+    <string name="preview_fail">预览生成失败</string>
+    <string name="file_preview_fail">文件预览失败</string>
+    <string name="loading_hd_version">正在加载高清版本...</string>
+
+    <string name="cant_open_document">无法打开当前文档</string>
+
+    <string name="review_forbid_after_deadline">截止日期24:00后审阅人将不能回复该审阅或查看文件</string>
+
+
+    <!-- error info -->
+    <string name="login_error">邮箱或密码错误</string>
+
+
+    <!-- 协作 -->
+    <string name="collabmember">协作</string>
+    <string name="collaber_title">协作成员</string>
+    <string name="collaber_detail">协作成员详情</string>
+    <string name="invalid_collabinfo">该协作邀请已失效，请联系邀请人</string>
+    <string name="diedline_notset_continue">尚未设置截止日期，确定要继续吗？</string>
+    <string name="password_notset_continue">尚未设置密码，确定要继续吗？</string>
+    <string name="tips_invite_collaber">点此邀请协作成员</string>
+    <string name="tips_collaber_detail">点击查看协作成员详情</string>
+
+    <string name="tip_child_folder_more">点此分享此文件夹\n和使用更多功能</string>
+
+    <string name="remove_group_from_collab_folder">移除该群组</string>
+
+    <string name="remove_department_from_collab_folder">移除该部门</string>
+    <string name="remove_collaber_from_collab_folder">移除该协作成员</string>
+
+    <string name="exit_form_collab_folder">退出协作</string>
+    <string name="sure_exit_collab_folder">确定要退出协作吗？</string>
+
+    <string name="sure_remove_collab_group_folder">确定要移除该群组吗？</string>
+    <string name="sure_remove_collab_department_folder">确定要移除该部门吗？</string>
+    <string name="sure_remove_collab_collaber_folder">确定要移除该协作成员吗？</string>
+
+    <string name="tips_collab_group_be_removed">群组已移除</string>
+    <string name="tips_collab_department_be_removed">部门已移除</string>
+    <string name="tips_collab_collaber_be_removed">协作成员已移除</string>
+
+    <string name="tips_inside_collaber_folder">该图标代表有公司同事参加协作</string>
+    <string name="tips_outside_collaber_folder">该图标代表有公司外成员参加协作</string>
+    <string name="tips_department_collaber_folder">该图标代表部门文件夹</string>
+    <string name="sure_exit_group_collaber_folder">确定要将该群组退出协作吗？所有群组成员都将退出协作</string>
+    <string name="sure_exit_department_collaber_folder">确定要将该部门退出协作吗？所有部门成员都将退出协作</string>
+
+    <string name="tips_system_created_role">部门文件夹的预设协作成员不能被移除，其协作级别也不能被编辑</string>
+    <string name="tips_exit_collab_going">正在退出协作...</string>
+    <string name="tips_remove_collaber_going">正在移除...</string>
+
+    <string name="tips_has_exit_current_collab">已退出协作</string>
+    <string name="known_outside_collaber_level">了解外部协作成员级别</string>
+    <string name="choose_outside_collaber_level">选择外部协作成员级别</string>
+    <string name="outside_collaber_level">外部协作成员级别</string>
+    <string name="collaber_level">协作成员级别</string>
+    <string name="choose_collaber_level">选择协作成员级别</string>
+    <string name="known_collaber_level">了解协作成员级别</string>
+    <string name="updating_collaber_level">正在更新协作成员级别...</string>
+    <string name="save_current_edit_or_not">当前修改尚未保存，确定要返回吗？</string>
+    <string name="update_collaber_level_success">更改协作成员级别成功</string>
+
+    <string name="folder_will_appear_in_file_list">加入后该文件夹将出现在您的文件列表</string>
+    <string name="choosed_contact_add_collab_at_this_level">所有被选择的同事都将以该协作成员级别加入协作。</string>
+    <string name="add_words">添加留言</string>
+
+    <!-- 协作邀请 -->
+    <string name="invite_of_collab">协作邀请</string>
+    <string name="empty_collaber">无协作成员</string>
+    <string name="words_limited">留言不能超过%1$s字</string>
+    <string name="words_most_num">最多%1$s字</string>
+    <string name="select_at_least_one">请至少选择一个同事</string>
+    <string name="has_send_collab_by_num">已向%1$d人（群组/部门）发送邀请</string>
+    <string name="has_send_collab_when_error">已向%1$d人发起协作，其中%2$d人（群组/部门）已存在于协作列表</string>
+    <string name="please_enter_email">请输入邮箱</string>
+    <string name="please_enter_valid_email">请输入有效的邮箱</string>
+    <string name="collab_cant_invite_self">不能邀请自己为协作成员</string>
+    <string name="collab_outside_cant_invite_self">该邮箱为同事，已邀请其成为公司成员类型协作成员</string>
+    <string name="collab_email_is_worker_and_in_collab">该邮箱为同事且已经是当前文件夹的协作成员</string>
+    <string name="collab_email_is_worker_and_in_collab_company">该邮箱为同事，已邀请其成为公司成员类型协作成员</string>
+    <string name="email_has_in_collab">该邮箱已存在于协作成员列表</string>
+    <string name="email_has_in_collab_outside">该邮箱已存在于外部协作成员列表</string>
+    <string name="invite_success">已邀请成功</string>
+    <string name="choose_collaber">选择协作成员</string>
+
+    <!-- 协作 编辑 角色 -->
+    <string name="editor">编辑者</string>
+    <string name="viewer">查看者</string>
+    <string name="previewer">预览者</string>
+    <string name="uploader">上传者</string>
+    <string name="previewer_uploader">预览+上传者</string>
+    <string name="coowner">共同所有者</string>
+    <string name="viewer_uploader">查看+上传者</string>
+    <string name="owner">所有者</string>
+
+    <!-- 协作 消息 -->
+    <string name="collab_title_info">%1$s邀请你加入协作</string>
+    <string name="collab_title_detail_info">%1$s邀请你加入%2$s</string>
+    <string name="collab_title_info_group">%1$s邀请你管理的群组“%2$s”加入协作</string>
+    <string name="collab_title_info_department">%1$s邀请你管理的部门“%2$s”加入协作</string>
+    <string name="collab_info_title_info_group">%1$s邀请你管理的群组加入%2$s</string>
+    <string name="collab_info_title_info_department">%1$s邀请你管理的部门加入%2$s</string>
+    <string name="folder_type_department">部门文件夹</string>
+    <string name="folder_type_collab">协作文件夹</string>
+    <string name="someone_share_folder_to_you">%1$s分享了一个文件夹给你</string>
+    <string name="someone_share_file_to_you">%1$s分享了一个文件给你</string>
+    <string name="someone_share_folder_to_you_1">%1$s分享了文件夹给你</string>
+    <string name="someone_share_file_to_you_1">%1$s分享了文件给你</string>
+    <string name="accept">接受</string>
+
+    <string name="someone_at_you_with_bracket">[有人@你]</string>
+    <string name="voice_with_bracket">[语音]</string>
+
+    <!-- review -->
+    <string name="review_edit">编辑审阅</string>
+    <string name="review_member">审阅人</string>
+    <string name="review_member_with_not_null">审阅人（必填）</string>
+    <string name="promoter">发起人</string>
+    <string name="menu_view">审阅</string>
+    <string name="sending">正在发送</string>
+    <string name="edit">编辑</string>
+    <string name="has_been_sent">已发送</string>
+    <string name="choose_reviewer">选择审阅人</string>
+    <string name="cur_edit_not_save_back_or_not">当前修改尚未保存，确定要返回吗？</string>
+    <string name="updating_review_setting">正在更新审阅设置</string>
+    <string name="must_add_one_or_more_reviewer">您必须至少添加一个审阅人</string>
+    <string name="reivew_title_words_limited">审阅标题不能超过%1$d字</string>
+    <string name="ps_words_limited">附言不能超过%1$d字</string>
+    <string name="ps_words">附言</string>
+    <string name="reviewer_cant_be_empty">审阅人不能为空</string>
+    <string name="title_cant_be_empty">标题不能为空！</string>
+    <string name="must_has_one_or_more_worker">必须至少有一个同事！</string>
+    <string name="sending_review">正在发起审阅</string>
+    <string name="send_review_success_and_see_in_message">发起审阅成功（可在消息中查看已发起的审阅）</string>
+    <string name="confirm_delete_review_comment_or_not">确定删除？</string>
+    <string name="review_comment_not_exist">该审阅评论不存在</string>
+    <string name="has_been_over">已结束</string>
+    <string name="has_ended">已截止</string>
+    <string name="review_ended_cant_preview">审阅已截止，不能查看文件</string>
+    <string name="review_be_over_cant_preview">审阅已结束，不能查看文件</string>
+    <string name="review_detail">审阅详情</string>
+    <string name="review_invalid">审阅已失效</string>
+
+    <string name="review_file">审阅文件</string>
+
+    <!-- empty message -->
+    <string name="empty_comment">暂无评论</string>
+    <string name="empty_review">暂无回复</string>
+    <string name="empty_message">暂无消息</string>
+
+    <!-- comment list -->
+    <string name="report">回复</string>
+    <string name="review_comment">审阅回复</string>
+    <string name="cliptext">还有%1$d位...</string>
+    <string name="comment_not_exist">该评论不存在</string>
+    <string name="no_comment_permission_and_cant_recive_msg">没有权限看到您的评论，也不会收到消息</string>
+    <string name="comment_words_limit">评论不能超过%1$d字</string>
+
+    <string name="no_access_to_file_of_comment">您无权访问该评论所在的文件</string>
+    <string name="no_permission_view_comment">您无权查看该文件的评论</string>
+
+    <!-- 评论 语音 -->
+    <string name="button_press_too_short">说话时间太短</string>
+    <string name="record_fail">录音失败</string>
+    <string name="please_open_record_right_by_ways">请尝试按以下方法开启录音权限</string>
+    <string name="record_slide_up_cancel">手指上滑，取消发送</string>
+    <string name="record_loosen_cancel">松开手指，取消发送</string>
+    <string name="press_speek">按住说话</string>
+
+    <!-- search -->
+    <string name="search">搜索</string>
+    <string name="search_hit_numbers">共含%1$s处相关内容</string>
+    <string name="search_hit_names_create">由%1$s创建</string>
+    <string name="search_hit_names_modify">由%1$s修改</string>
+
+    <!-- cache -->
+    <string name="cache_setting">缓存设置</string>
+    <string name="cache_space">缓存大小</string>
+    <string name="cache">缓存</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="cache_clear_finish">缓存清理完成</string>
+    <string name="cache_clear_dont_affect_offline_files">清除缓存不影响已离线的文件</string>
+
+    <!-- setting items -->
+    <string name="download_only_in_wify_model">仅在Wi-Fi下上传/下载/离线</string>
+    <string name="keep_login_state">保持我的登录状态</string>
+    <string name="viewer_doc_model">Word、PDF预览模式</string>
+    <string name="viewer_ppt_model">PPT预览模式</string>
+    <string name="horizontal">水平</string>
+    <string name="vertical">垂直</string>
+    <string name="userdetail">帐号详情</string>
+    <string name="filelist">文件列表</string>
+
+    <string name="getting_user_info">正在获取用户信息</string>
+    <string name="contact_customer_service">联系客服</string>
+    <string name="check_update">检查更新</string>
+    <string name="feedback">意见反馈</string>
+
+    <string name="show_language">语言设置</string>
+
+    <!-- 时间 -->
+    <string name="time_hour_1">1小时</string>
+    <string name="time_hour_12">12小时</string>
+    <string name="time_hour_24">24小时</string>
+    <string name="time_day_7">7天</string>
+
+
+
+    <!-- 预览失败的原因 -->
+    <string name="preview_not_supported">当前文件类型不支持预览</string>
+    <string name="file_empty_cant_preview">当前文件为空，无法预览</string>
+    <string name="file_exception_cant_preview">文件异常，无法预览</string>
+    <string name="image_resolution_too_high_cant_preview">当前图片分辨率过高，无法预览</string>
+    <string name="not_provide_preview_contact_service">暂时无法提供预览，请联系客服</string>
+    <string name="back_and_refresh_then_preview">请返回文件列表刷新后再查看</string>
+
+    <string name="password_invalid">密码错误</string>
+    <string name="collab_invitation_already_answered">已接受协作邀请</string>
+    <string name="exception_access_denied">当前用户无权执行该操作</string>
+
+    <string name="exception_data_source_get_fail">数据源获取失败！</string>
+    <string name="exception_time_out_and_retry">加载超时，请重试...</string>
+    <string name="invalid_item_info">文件不存在</string>
+
+    <string name="sure_complete_review">确定要结束该审阅吗？结束后审阅人将不能再查看文件和回复，如有需要您必须重新发起审阅。</string>
+    <string name="complete_review">结束审阅</string>
+    <string name="expired">已过期</string>
+    <string name="completed">已截止</string>
+    <string name="sure_unsharelink">确定要删除分享链接吗？</string>
+    <string name="this_file_can_not_preview">当前文件类型不支持预览</string>
+    <string name="tips_doubleclick_show_filename">双击此处查看完整文件名</string>
+
+    <string name="tips_browser_more">使用更多功能</string>
+
+    <!-- 手机存储不足 -->
+    <string name="no_more_frees_pace_to_preview">手机存储空间不足，请清理后再预览</string>
+
+    <string name="restore_fail_no_more_free_space">还原失败，您的存储空间不足</string>
+    <string name="open_fault">打开文件失败</string>
+
+    <string name="continue_download">继续下载</string>
+
+    <string name="close">关闭</string>
+
+    <!-- 组织架构 -->
+    <string name="organization">组织架构</string>
+    <string name="enterprise">企业</string>
+    <string name="my_department">我的部门</string>
+    <string name="delete_user_from_company">从企业删除该成员</string>
+    <string name="organization_loading">正在加载组织架构...</string>
+    <string name="department_not_exist">该部门不存在</string>
+    <string name="department_manager_with_bracket">(部门主管)</string>
+    <string name="not_active_with_bracket">(尚未激活)</string>
+    <string name="not_accepted_with_bracket">(尚未接受)</string>
+    <string name="member_by_count">%1$d人</string>
+    <string name="member_by_count_with_bracket">(%1$d人)</string>
+    <string name="include_me_with_bracket">(包括我)</string>
+    <string name="me_with_bracket">(我)</string>
+    <string name="department_belong">，属于%1$s</string>
+
+    <string name="gtoup_detail">群组详情</string>
+    <string name="group_manager_with_bracket">(群组管理员)</string>
+
+    <string name="name_cant_contain_characters">姓名不能包含以下字符</string>
+
+    <!-- 推送 -->
+    <string name="push_str_inviter_added">: %1$s通过邀请链接加入了您所在的企业</string>
+    <string name="push_str_receive_review_msg">: 您收到了一条审阅消息</string>
+    <string name="push_str_receive_comment_msg">: 您收到了一条评论消息</string>
+    <string name="push_str_receive_share_msg">: 您收到了一条分享消息</string>
+    <string name="push_str_receive_collab_msg">: 您收到了一条协作消息</string>
+
+    <!-- UserGuide -->
+    <string name="tips_all_collab_folder_here">所有邀请你协作的文件夹将出现在这里</string>
+    <string name="tips_all_collab_folder_here_with_permission">所有你创建的文件（夹）将出现在这里，只有你和有协作权限的人可以访问</string>
+    <string name="tips_all_department_folder_here">你有权限访问的部门文件夹将出现在这里</string>
+    <string name="tips_collab_folder_here">邀请你协作的文件夹将出现在这里</string>
+
+    <string name="tips_all_folder_userguide_1">点此在全部文件、\n离线文件等中快速切换</string>
+
+    <string name="tips_contact_userguide_see_detail">点此查看您的同事资料</string>
+
+    <string name="tips_all_folder_userguide_item_more_menu">在此使用文件的更多功能</string>
+    <string name="tips_message_userguide">点此查看您的所有消息</string>
+
+
+    <string name="phone_number_not_correct">电话号码不正确</string>
+
+    <!-- 更新 -->
+    <string name="update_api_version_to_low">当前应用版本过低，请更新后继续使用</string>
+    <string name="update_has_been_latest_version">已是最新版</string>
+    <string name="update_immediately">立即更新</string>
+    <string name="update_version_name_with_colon">版本号：</string>
+
+    <!-- 上传文件 -->
+    <string name="upload_exception_folder_not_exist">文件夹已不存在，请重新上传</string>
+    <string name="upload_exception_permission_denied">权限不足，无法完成该操作</string>
+    <string name="upload_exception_original_not_exist">原文件不存在，请重新上传</string>
+    <string name="folder_not_exist_and_rechoose">所选择的文件夹不存在，请重新选择</string>
+    <string name="no_permission_and_rechoose">权限不足，请重新选择</string>
+    <string name="check_num_of_all_files">查看全部文件(共%1$d个)</string>
+
+    <!-- userinfo -->
+    <string name="confirm_exit_or_not">确定退出？</string>
+    <string name="exiting">正在退出...</string>
+    <string name="update_avatar_success">上传成功</string>
+    <string name="update_avatar_fail">上传失败</string>
+    <string name="update_success">更新成功</string>
+    <string name="update_fail">更新失败</string>
+    <string name="space_used">%1$s已用</string>
+    <string name="no_limited">无限</string>
+    <string name="space_available">可用</string>
+    <string name="see_account_detail">查看帐号详情</string>
+
+    <string name="folder_name_cant_contain_characters">文件/文件夹名不能包含以下字符</string>
+
+    <string name="please_enter_exist_demo_account">请输入已有的体验帐号</string>
+    <string name="set_new_validity">设置新有效期</string>
+
+
+    <!-- File List -->
+    <string name="no_permission_preview">当前用户无预览权限</string>
+    <string name="personal_user_cant_review">您的帐号类型为个人帐号，无法使用此功能</string>
+    <string name="only_file_can_review">审阅仅支持文件</string>
+    <string name="cant_delete_some_files_locked">不能删除（一个或多个文件被锁定）</string>
+    <string name="file_be_locked">不能完成操作（文件已锁定）</string>
+
+    <string name="origin_folder_not_exist_save_to_root">原所在文件夹不存在，文件（夹）已经被还原至根目录</string>
+
+    <string name="refreshing_file_list">正在刷新文件列表</string>
+
+    <string name="completely_delete_folder_or_not">要彻底删除文件夹吗？</string>
+    <string name="completely_delete_file_or_not">要彻底删除文件吗？</string>
+    <string name="confirm_delete_folder_or_not">确定删除文件夹？</string>
+    <string name="confirm_delete_file_or_not">确定要删除文件吗？</string>
+    <string name="file_move_trash_save_days">删除后文件将被移至回收站（保留%1$d天）</string>
+
+    <string name="folder_not_exist_or_deleted">文件夹不存在或已被删除</string>
+    <string name="image_not_exist_or_deleted">图片不存在或已被删除</string>
+
+    <string name="cancel_mark_success">已取消收藏</string>
+    <string name="add_mark_success">已加入收藏夹</string>
+    <string name="renaming">正在重命名...</string>
+    <string name="file_name_modify_success">修改文件名成功</string>
+    <string name="creating_folder">正在创建文件夹...</string>
+    <string name="create_folder_success">创建文件夹成功</string>
+
+    <string name="file_offline_going">正在离线</string>
+    <string name="file_offline_going_and_wait">文件正在离线中，请稍等...</string>
+    <string name="offline_success">离线成功</string>
+    <string name="cancel_offline_success">取消离线成功</string>
+    <string name="confirm_cancel_offline_file_or_not">确定要取消离线该文件吗？</string>
+    <string name="waiting_for_offline">正在等待离线</string>
+    <string name="wait_for_offline">等待离线</string>
+    <string name="offline_fail_and_retry">离线失败，点击重试</string>
+    <string name="offline_fail">离线失败</string>
+    <string name="confirm_cancel_offline_or_not">确定要取消离线吗？</string>
+
+    <string name="waiting_for_upload">正在准备上传</string>
+    <string name="wait_for_upload">等待上传</string>
+    <string name="upload_fail_and_retry">上传失败，点击重试</string>
+    <string name="upload_fail">上传失败</string>
+    <string name="confirm_cancel_file_upload_or_not">确定要取消上传吗？</string>
+    <string name="upload_going">正在上传</string>
+
+    <string name="be_completed">已完成</string>
+
+    <string name="directory_without_any_folders">当前目录无任何子文件夹</string>
+
+
+    <string name="has_been_latest_version">已是最新版本</string>
+    <string name="updating_file">正在更新文件...</string>
+
+
+
+    <string name="image_saving_to_photo_album">正在保存</string>
+    <string name="image_save_to_photo_album_success">图片已保存</string>
+    <string name="image_save_to_photo_album_fail">保存到相册失败</string>
+
+    <string name="personal_user_cant_use_feature">您的帐号类型为个人帐号，无法使用此功能</string>
+
+    <string name="look_over">查看</string>
+    <string name="new_message">新消息</string>
+
+    <string name="no_access_to_open_folder">权限不足，无法打开此文件夹</string>
+    <string name="no_access_to_preview_file">权限不足，无法预览此文件</string>
+
+    <string name="has_no_offline_task">无离线记录</string>
+    <string name="has_no_upload_task">无上传记录</string>
+    <string name="offline_going">正在离线</string>
+
+    <string name="file_location_folder">所在文件夹：</string>
+
+    <!-- 在 file_blank_page.xml 中用到 -->
+    <string name="folder_empty_title">空空如也!</string>
+    <string name="folder_empty_upload_tips">试试点击右上角，上传文件吧</string>
+
+    <string name="tips_marked_folder_empty_1">将文件(夹)加入收藏</string>
+    <string name="tips_marked_folder_empty_2">需要时就可以快速找到</string>
+
+    <string name="tips_offline_empty">将文件离线到本地\n无需网络就可以查看</string>
+
+    <string name="history_version_tip">在网页版上传新版本后，文件的历史版本将出现在这里</string>
+
+    <string name="no_file">无文件</string>
+
+    <string name="still_continue">仍要继续</string>
+
+    <!-- 文件存储 -->
+    <string name="max_files_upload_one_time">一次最多上传300个文件</string>
+    <string name="not_find_pictures">没有找到图片</string>
+    <string name="picture_by_count">%1$d张</string>
+    <string name="not_select_picture">未选择图片文件</string>
+    <string name="no_external_storage">暂无外部存储</string>
+    <string name="choose_pictures">选择图片</string>
+    <string name="save_pictures">保存图片</string>
+    <string name="save_position">保存位置</string>
+    <string name="choose_other_folder">选择其它文件夹</string>
+    <string name="file_been_deleted">该文件已被删除</string>
+
+    <string name="choose_from_media">从媒体选择</string>
+
+    <string name="no_labels">无标签</string>
+
+    <!-- 登录 注册 -->
+    <string name="creating_demo_account">正在创建体验帐号</string>
+    <string name="logining">正在登录</string>
+    <string name="invalid_email_and_contact_your_admin">无效的邮箱，请联系您所在企业的管理员</string>
+
+    <string name="log_out">退出登录</string>
+    <string name="demo_user_email_tips">你的体验帐号为%1$s</string>
+    <string name="demo_can_use_for_24h">(可使用24个小时)</string>
+
+    <string name="start_experience">开始体验</string>
+    <string name="demo_guide_tip_1">1.在这里，你可以体验100多种文件格式的预览。不仅支持常用的Office（Word、PPT、Excel），更包括专业的EPS、AI、CAD、PSD文件。</string>
+    <string name="demo_guide_tip_2">2.在这里，你可以体验全文搜索。不仅可以通过文件标题进行搜索，还可以对文件内容进行搜索，定位文件快速高效。</string>
+    <string name="demo_guide_tip_3">3.在这里，你可以一键分享文件。支持任意大小的文件或文件夹，更可分享给微信、QQ好友。</string>
+
+    <string name="forget_pwd_tip_1">输入您的邮箱地址以设置密码</string>
+    <string name="forget_pwd_tip_2">您可以根据需要查看垃圾邮件文件夹。</string>
+    <string name="forget_pwd_tip_3">如有疑问请联系您所在企业的管理员或亿方云客服。</string>
+
+    <string name="password_hint">密码（8-32位，包含字母和数字）</string>
+    <string name="send_inviter_link">发送邀请链接</string>
+    <string name="edit_invite_link">创建邀请链接并发送</string>
+    <string name="update_invite_link">更新邀请链接</string>
+    <string name="creating_link">正在创建链接</string>
+    <string name="confirm_del_invite_link_or_not">确定删除该邀请链接吗？</string>
+    <string name="invite_link">邀请链接</string>
+    <string name="register">注册</string>
+    <string name="register_at_once">立即注册</string>
+    <string name="enter_demo_account">进入体验帐号</string>
+    <string name="not_for_this_time">暂时不要</string>
+    <string name="submiting">正在提交中</string>
+    <string name="send_success">发送成功</string>
+    <string name="cancel_register_or_not">是否取消注册？</string>
+
+    <string name="validity">有效期</string>
+    <string name="expire_by_days">%1$s后过期</string>
+    <string name="invite_link_expired_and_reset_validity">邀请链接已过期，请重新设置有效期</string>
+    <string name="invite_link_cppy_to_clipboard">邀请链接已复制到剪贴板</string>
+    <string name="scan_qr_code_join_company">让同事扫描以下二维码即可加入您的企业</string>
+
+    <!-- SplashPageActivity -->
+    <!-- SplashPageActivity -->
+    <string name="splash_page_1_tip_1">随时随地查看</string>
+    <string name="splash_page_1_tip_2">100+格式文件直接预览</string>
+    <string name="splash_page_1_tip_3">强大全文搜索，快速定位目标文件</string>
+
+    <string name="splash_page_2_tip_1">实时消息提醒</string>
+    <string name="splash_page_2_tip_2">相关消息实时推送</string>
+    <string name="splash_page_2_tip_3">让您第一时间参与团队协作</string>
+
+    <string name="splash_page_3_tip_1">离线文件查看</string>
+    <string name="splash_page_3_tip_2">支持离线文件到本地</string>
+    <string name="splash_page_3_tip_3">无需网络即可轻松查看</string>
+
+    <string name="splash_page_4_tip_1">简单快速分享</string>
+    <string name="splash_page_4_tip_2">文件随你所行，快速分享给同事、客户</string>
+    <string name="splash_page_4_tip_3">支持微信、邮件发送，方便快捷</string>
+
+
+    <string name="msg_get_failed">获取信息失败</string>
+
+    <string name="tips_network_cost_mobile_traffic">当前操作可能耗费较多流量，确定继续吗？</string>
+
+    <string name="reading">读取中...</string>
+    <string name="must_fill">必填</string>
+
+    <string name="enterprise_file_management_experts">企业文件管理专家</string>
+
+    <string name="copied_to_clipboard">链接已复制到剪贴板</string>
+
+    <string name="desc_extersion_upload">您可以将文件保存到%1$s上的已有文件夹，也可以新建文件夹用于保存。</string>
+    <string name="demo_guid_register_tips">注册亿方云帐号享受更多更强大的功能</string>
+    <string name="welcome_to_demo">欢迎体验亿方云</string>
+    <string name="desc_edit_tag_from_web">您可以在网页版添加或编辑标签</string>
+    <string name="desc_edit_tag_from_web_empty">可在网页版为文件(夹)添加标签</string>
+    <string name="desc_web_edit_role">该协作成员在当前文件夹的级别为其在当前文件夹及所有上级文件夹的级别的并集。\n请前往网页版修改其协作成员级别。</string>
+    <string name="desc_invite_outside_collab">被邀请人将收到邮件，确认后即可加入协作（若无帐号将提示其注册）。\n外部协作者的最高可选级别为编辑者。</string>
+    <string name="desc_invitelink_create">将邀请链接发送给微信/QQ好友（或通过其它方式发送），对方打开链接即可注册%1$s帐号并加入您的企业。</string>
+
+    <string name="delete_at_sometime">删除于%1$s</string>
+    <string name="tips_to_edit">点击填写</string>
+    <string name="need_verify">未验证</string>
+
+    <!-- 下载源文件 -->
+    <string name="tips_download_network_cost_mobile_traffic">下载原文件可能会消耗较多流量，是否继续？</string>
+    <string name="download_fail_and_retry">下载失败，请重试</string>
+    <string name="no_more_frees_pace_to_download">手机存储空间不足，请清理后再下载</string>
+    <string name="no_network_available_to_download">网络已断开，请检查网络连接后再下载</string>
+    <string name="download_only_wifi">当前设置仅允许在Wi-Fi下下载，如需修改请前往“设置”页面</string>
+
+    <string name="phone_not_public">未公开</string>
+
+    <string name="time_just">刚刚</string>
+    <string name="time_second_before">%1$d秒前</string>
+    <string name="time_mininute_before">%1$d分钟前</string>
+    <string name="time_hour_before">%1$d小时前</string>
+    <string name="yesterday">昨天</string>
+    <string name="day_before_yesterday">前天</string>
+
+    <string name="move_going_on">正在移动</string>
+    <string name="copy_going_on">正在复制</string>
+    <string name="has_copy_to_target_folder">已复制到目标文件夹</string>
+    <string name="has_move_to_target_folder">已移动到目标文件夹</string>
+
+    <string name="time_format_day">%1$s天</string>
+    <string name="time_format_hour">%1$s小时</string>
+    <string name="time_format_minute">%1$s分钟</string>
+    <string name="time_format_second">%1$s秒</string>
+
+    <string name="update_find_new_version">发现新版本</string>
+    <string name="update_version_number">版本号：</string>
+    <string name="update_apk_size">安装包大小：</string>
+    <string name="update_desc">更新内容：</string>
+    <string name="update_ignore_this_version">忽略该版本</string>
+    <string name="update_temporarily_not_update">暂不更新</string>
+    <string name="update_right_not">立即更新</string>
+    <string name="update_has_found">有更新</string>
+    <string name="update_going">正在更新%1$s</string>
+    <string name="update_download_progress">正在下载：%1$s</string>
+    <string name="update_download_success_click_install">下载已完成，点击安装</string>
+    <string name="update_download_failed">下载失败（网络异常），点击重试</string>
+    <string name="update_version_info">版本信息：</string>
+</resources>

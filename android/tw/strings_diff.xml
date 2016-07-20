@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+    <string name="app_name">億方雲</string>
+    <!-- externsion upload -->
+    <string name="upload_to_egeio">  上傳到億方雲  </string>
+
+    <!-- record device permission -->
+    <string name="desc_record_way1">方法1：前往設定-安全-權限管理程式-億方雲-錄製聲音，設為允許；</string>
+    <string name="desc_record_way2">方法2：前往360衛士-安全防護-隱私行為監控-軟件隱私權限管理-億方雲-使用話筒錄音/通話錄音，設為允許；</string>
+    <string name="desc_record_way3">方法3：若使用了其他權限管理軟件，請在其中找到億方雲並將錄音權限設為允許。</string>
+
+    <string name="copyright">杭州億方雲網路科技有限公司 版權所有</string>
+</resources>

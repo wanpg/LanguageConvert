@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">亿方云</string>
+    <!-- externsion upload -->
+    <string name="upload_to_egeio">&#160;&#160;上传到亿方云&#160;&#160;</string>
+
+    <!-- record device permission -->
+    <string name="desc_record_way1">方法1：前往设置-安全-权限管理程序-亿方云-录制音频，设为允许；</string>
+    <string name="desc_record_way2">方法2：前往360卫士-安全防护-隐私行为监控-软件隐私权限管理-亿方云-使用话筒录音/通话录音，设为允许；</string>
+    <string name="desc_record_way3">方法3：若使用了其它权限管理软件，请在其中找到亿方云并将录音权限设为允许。</string>
+
+    <string name="copyright">杭州亿方云网络科技有限公司 版权所有</string>
+</resources>

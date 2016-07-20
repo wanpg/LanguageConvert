@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+    <!-- common-->
+    <string name="loading">Loading</string>
+    <string name="loading_1_with_ending">Loading...</string>
+    <string name="unknow_error">Unknown error</string>
+    <string name="tips">Notification</string>
+    <string name="password">Password</string>
+    <string name="skip">Skip</string>
+    <string name="server_space">Storage Space</string>
+    <string name="upload">Upload</string>
+    <string name="create_folder">New Folder</string>
+    <string name="photo">Albums</string>
+    <string name="tranList">Transmission List</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+    <string name="size">Size</string>
+    <string name="file_name">File Name</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="offline">Offline</string>
+    <string name="phone">Phone</string>
+    <string name="mobile_phone">Mobile</string>
+    <string name="leave_message">Message</string>
+    <string name="come_from_somewhere">From %1$s</string>
+    <string name="date">Date</string>
+    <string name="current">Current</string>
+    <string name="link">Link</string>
+    <string name="title">Title</string>
+    <string name="collapse">Hide</string>
+    <string name="avatar">Avatar</string>
+    <string name="name">Name</string>
+    <string name="company">Enterprise</string>
+    <string name="property">Properties</string>
+    <string name="save">Save</string>
+    <string name="not_save">Don\'t Save</string>
+    <string name="save_failed">Failed to save, please try again</string>
+    <string name="remarks">Remark</string>
+    <string name="remarks_with_info">Remark: %1$s</string>
+
+    <!-- tabs -->
+    <string name="Message">Messages</string>
+    <string name="File">Files</string>
+    <string name="Contacts">Colleagues</string>
+    <string name="setting">Settings</string>
+
+    <!-- buttons -->
+    <string name="login">Sign In</string>
+    <string name="exit">Quit</string>
+    <string name="ok">Confirm</string>
+    <string name="done">Done</string>
+    <string name="next">Next Step</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="LoginOut">Sign Out</string>
+    <string name="know">OK</string>
+    <string name="create">Create</string>
+    <string name="invite">Invite</string>
+    <string name="open_file">View File</string>
+    <string name="open_folder">View Folder</string>
+    <string name="accept_folder">Accept Invitation</string>
+    <string name="accept_file">Add File</string>
+    <string name="send">Send</string>
+
+    <!-- file types -->
+    <string name="menu_all_filder">All Files</string>
+    <string name="menu_mark">Favorites</string>
+    <string name="menu_trash">Trash</string>
+    <string name="menu_downloaded_files">Offline Files</string>
+    <string name="menu_persional_folder">Personal Files</string>
+    <string name="menu_collab_folder">Collaboration Files</string>
+    <string name="cancel_offline">Remove from Offline</string>
+    <string name="menu_department_folder">Department Files</string>
+    <string name="current_folder">Current Folder</string>
+
+    <!-- upload menu items -->
+    <string name="menu_photo">Take Photo</string>
+    <string name="menu_photo_select">Media</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="all_files">More Files</string>
+
+    <string name="externsion_title_by_appname">Upload to %1$s</string>
+    <string name="selecte_operate_folder">Select target folder</string>
+    <string name="selecte_savein_folder">Select folder to save</string>
+
+    <!-- more menu items -->
+    <string name="downloaded_origin_file">Open in…</string>
+    <string name="downloaded_files_tolocal">Make Offline Available</string>
+    <string name="marked_folder">Add to Favorites</string>
+    <string name="cancel_marked">Remove from Favorites</string>
+    <string name="tips_marked_folder">You can quickly access it in the \"Favorites\" from top drop-down menu after you add it to Favorites.</string>
+    <string name="exception_file_locked_with_locker">Operation denied, %1$s(%2$s) has locked the file</string>
+    <string name="select_form_photo">Select from Albums</string>
+    <string name="save_to_photo">Save to Album</string>
+    <string name="viewer_image_2048">View High Definition Version</string>
+    <string name="restore">Restore</string>
+    <string name="cooperation">Collaboration</string>
+    <string name="label">Tags</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="view">Review</string>
+    <string name="down">Download</string>
+    <string name="more">More</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="update">Update</string>
+    <string name="modify">Edit</string>
+    <string name="copyormove">Move/Copy</string>
+    <string name="more_menuitems">More Features</string>
+
+
+    <!-- transport list -->
+    <string name="file_list">File List</string>
+    <string name="upload_list">Upload List</string>
+    <string name="uploadfile">Upload File</string>
+
+    <!-- contact -->
+    <string name="select">Select</string>
+    <string name="select_member">Select Colleague</string>
+    <string name="select_member_at_least_one">Select colleagues (at least one)</string>
+    <string name="select_department">Select Department</string>
+    <string name="select_group">Select Group</string>
+    <string name="select_all">Select All</string>
+    <string name="invite_member">Invite Colleagues</string>
+    <string name="contact_detail">Colleague Details</string>
+    <string name="delete_member">Delete Member</string>
+    <string name="contact_count">%1$s colleague(s)</string>
+    <string name="labels_count">(%1$s in total)</string>
+    <string name="include_labels_by_count">contains %1$s tag(s)</string>
+    <string name="contact_delete_comment">\'s deletion will lead to following actions:</string>
+    <string name="contact_delete_comment_0">●  All files he owns (including personal and collaboration folders) will be packaged into a folder named %1$s and moved to your root folder (You would be the owner of the collaboration folders, and the other collaborators wouldn\'t be affected);</string>
+    <string name="contact_delete_comment_1">●  His trash would be cleaned;</string>
+    <string name="contact_delete_comment_2">●  The share links he created would still be working (you can edit them);</string>
+    <string name="contact_delete_comment_3">●  The reviews he created would be ended automatically (the reviewers cannot view the review files);</string>
+    <string name="contact_delete_comment_4">●  He would be removed from the collaborations, reviews and groups;</string>
+    <!--<string name="contact_delete_comment_5">●&#160;&#160;他锁定的文件将自动解锁；</string>-->
+    <string name="contact_delete_comment_6">●  The groups he managed would be transferred to you;</string>
+    <string name="contact_delete_comment_7">●  The information he generated (including comments and review comments) would be reserved, but his name would be marked with \'deleted\'.</string>
+    <string name="contact_delete_comment_8">The processing time will be affected by the number of files, please be patient</string>
+    <string name="current_list_empty">Current list is empty</string>
+
+    <string name="admin_delete_worker_tip">Are you sure you want to delete this member? This operation cannot be undone</string>
+    <string name="deleting">Deleting</string>
+    <string name="deleted">Deleted</string>
+    <string name="delete_success">Delete successfully</string>
+    <string name="delete_fault">Failed to delete</string>
+
+
+    <!-- message types -->
+    <string name="confirm_marked_all_msg_or_not">Are you sure you want to mark all messages as read?</string>
+    <string name="confirm_del_msg_or_not_and_cant_restore">Are you sure you want to delete this message? This operation cannot be undone.</string>
+
+    <string name="you_start_one_review">You sent the review</string>
+    <string name="someone_invite_join_review">%1$s invited you to join the review</string>
+
+    <!-- user info update -->
+    <string name="update_name">Edit Name</string>
+    <string name="update_avatar">Change the avatar</string>
+
+    <!-- login -->
+    <string name="loading_enterprise_source">Downloading resources</string>
+    <string name="noresult">No results</string>
+
+    <!-- share -->
+    <string name="share">Share</string>
+    <string name="share_again">Share again</string>
+    <string name="share_access_info">Accessible for %1$s/%2$s/%3$s</string>
+    <string name="anyone">Anyone</string>
+    <string name="openGroup">Colleagues</string>
+    <string name="canbedownload">Allow download</string>
+    <string name="disabledownload">Disallow download</string>
+    <string name="creating_sharelink">Generating share link</string>
+    <string name="getting_sharelink">Getting share link</string>
+    <string name="accessSet">Permission Settings</string>
+    <string name="editPermission">Permissions</string>
+    <string name="delete_link">Delete Link</string>
+    <string name="sure_save_edit">Save your edit?</string>
+    <string name="tips_to_install_wechat">Please install WeChat first</string>
+
+    <string name="share_info_register_and_join">Register %1$s and join %2$s</string>
+    <string name="share_info_invite_join">Invited you to join %1$s</string>
+    <string name="share_info_invite_join_with_end_link">Invited you to join %1$s —— Enterprise File Management Expert: %2$s</string>
+
+    <string name="share_be_encrypted_enter_pwd">Please enter password to view this share</string>
+
+    <string name="share_success">Share successfully</string>
+
+    <string name="has_set_pwd">Password protected</string>
+    <string name="everyone_can_visit">Anyone</string>
+    <string name="only_company_member_can_visit">Colleagues only</string>
+
+    <string name="check_share">View Share</string>
+
+    <string name="qq_share_failed">Failed to share via QQ</string>
+
+    <string name="set_share_link">Set invitation link</string>
+
+    <string name="click_copy_to_clipboard_press_right_top_toshare">Click the link to copy to the clipboard, or you can also share again by clicking on the top right</string>
+    <string name="save_success">Save successfully</string>
+
+
+    <!-- share permission -->
+    <string name="share_opengroup">Colleagues</string>
+    <string name="share_openterm">The collaborators of this folder</string>
+    <string name="downloadable">Allow Download</string>
+    <string name="diedline">Expiration Date</string>
+    <string name="dayofexpire">Set Expiration Date</string>
+    <string name="notset">Unset</string>
+    <string name="setpassword">Set Password</string>
+    <string name="passwordset">Password Settings</string>
+    <string name="never">Never Expire</string>
+    <string name="share_link_invalid_and_reset_end_date">The share link has already expired, please set a new expiration date</string>
+
+    <string name="permission_setting_has_update">Permission settings have been updated</string>
+    <string name="change_premission_setting">Change Permission Settings</string>
+    <string name="changing_premission_setting">Updating permission settings</string>
+
+    <string name="sending_share">Sending share</string>
+
+    <string name="select_at_least_one_sharer">Please select at least one receiver</string>
+    <string name="share_link_invalid_and_reset_permission">The share link has expired, please edit the permission settings</string>
+    <string name="share_link_cppy_to_clipboard">The share link has been copied to the clipboard</string>
+    <string name="delete_share_link_success">The share link has been deleted</string>
+    <string name="delete_share_link">Delete Share Link</string>
+
+    <string name="access_permission">Access Permission</string>
+    <string name="share_premission_tip_everyone">Anyone who receives the share can access the content without signing in.</string>
+    <string name="share_premission_tip_company">Only members in your enterprise can access the content.</string>
+    <string name="share_premission_tip_collaber">Only collaborators in this folder can access the content (You can view or edit collaborators on the web).</string>
+    <string name="share_premission_tip_download">Receivers of this share can download the content once it\'s turned on.</string>
+    <string name="share_premission_tip_expire_time">The share will expire automatically at 24:00 on the day you set once it\'s turned on.</string>
+    <string name="share_premission_tip_password">Receivers of this share need to enter the password you set to access the content once it\'s turned on.</string>
+
+    <string name="need_password">Password Protected</string>
+
+
+    <!-- share to -->
+    <string name="colleague">To Colleague</string>
+    <string name="qq_msg">WeChat</string>
+    <string name="sms">Text Messages</string>
+    <string name="mailbox">Email</string>
+    <string name="email">Email</string>
+    <string name="QQ">QQ</string>
+    <string name="copy_url">Copy Link</string>
+
+    <!-- share tips -->
+    <string name="share_not_exist">The share content no longer exists, please contact the sender</string>
+    <string name="share_expire">The share has expired, please contact the sender</string>
+    <string name="share_not_found">The share is invalid, please contact the sender</string>
+
+    <!-- invite collab -->
+    <string name="insidemember">Colleagues</string>
+    <string name="outsidemember">External</string>
+    <string name="invite_insidemember">Colleagues</string>
+    <string name="invite_Outsidemember">External</string>
+    <string name="invite_collabermember">Invite Collaborators</string>
+    <string name="cleanTrash">Delete Permanently</string>
+    <string name="send_review">Send Review</string>
+
+    <string name="member">Man</string>
+    <string name="department">Department</string>
+    <string name="group">Group</string>
+    <string name="group_name">Group name: %1$s</string>
+    <string name="department_name">Department name: %1$s</string>
+    <string name="tips_contact_thumb_change">Click icon to view the details</string>
+
+    <string name="tips_department_name_change">Click the department name to view the details</string>
+    <string name="login_name">Account</string>
+
+
+
+    <!-- file info -->
+    <string name="file_count">%1$d folder(s), %2$d file(s)</string>
+
+    <!-- file preview -->
+    <string name="repertation_download">Generating preview</string>
+    <string name="enter_password">Please enter the password</string>
+    <string name="document_open_failed">Failed to open document</string>
+    <string name="comment">Comments</string>
+    <string name="originversion">History Versions</string>
+    <string name="tips_director_change">Click here to jump through folders</string>
+    <string name="tips_browser_comment">View Comments</string>
+    <string name="tips_browser_share">Share File</string>
+    <string name="tips_browser_review">Send Review</string>
+    <string name="tips_browser_hostory">History Versions</string>
+
+    <string name="preview_fail">Failed generate preview</string>
+    <string name="file_preview_fail">Failed to preview the file</string>
+    <string name="loading_hd_version">Loading HD version...</string>
+
+    <string name="cant_open_document">Cannot open current document</string>
+
+    <string name="review_forbid_after_deadline">The reviewer cannot comment or view files after 24:00 on the expiration day</string>
+
+
+    <!-- error info -->
+    <string name="login_error">Incorrect email or password</string>
+
+
+    <!-- 协作 -->
+    <string name="collabmember">Collaboration</string>
+    <string name="collaber_title">Collaborators</string>
+    <string name="collaber_detail">Collaborator Details</string>
+    <string name="invalid_collabinfo">Invalid invitation, please contact the inviter</string>
+    <string name="diedline_notset_continue">Expiration date hasn\'t been set, are you sure to continue?</string>
+    <string name="password_notset_continue">Password hasn\'t been set, are you sure to continue?</string>
+    <string name="tips_invite_collaber">Click here to invite collaborator</string>
+    <string name="tips_collaber_detail">Click here to view the detail of collaborator</string>
+
+    <string name="tip_child_folder_more">Click here to share this folder \n and access more features</string>
+
+    <string name="remove_group_from_collab_folder">Remove this group</string>
+
+    <string name="remove_department_from_collab_folder">Remove this department</string>
+    <string name="remove_collaber_from_collab_folder">Remove this collaborator</string>
+
+    <string name="exit_form_collab_folder">Quit Collaboration</string>
+    <string name="sure_exit_collab_folder">Are you sure you want to quit the collaboration?</string>
+
+    <string name="sure_remove_collab_group_folder">Are you sure you want to remove this group?</string>
+    <string name="sure_remove_collab_department_folder">Are you sure you want to remove this department?</string>
+    <string name="sure_remove_collab_collaber_folder">Are you sure you want to remove this collaborator?</string>
+
+    <string name="tips_collab_group_be_removed">The group has been removed</string>
+    <string name="tips_collab_department_be_removed">The department has been removed</string>
+    <string name="tips_collab_collaber_be_removed">The collaborator has been removed</string>
+
+    <string name="tips_inside_collaber_folder">This icon means there are colleagues in collaborators</string>
+    <string name="tips_outside_collaber_folder">This icon means there\'re external collaborators in this folder</string>
+    <string name="tips_department_collaber_folder">This icon means department folder</string>
+    <string name="sure_exit_group_collaber_folder">Are you sure you want to remove the group from the collaboration? All group members will quit the collaboration.</string>
+    <string name="sure_exit_department_collaber_folder">Are you sure you want to remove this department from collaboration? All department members will quit the collaboration.</string>
+
+    <string name="tips_system_created_role">The predefined collaborator of department folder cannot be removed and the collaboration role cannot be edited</string>
+    <string name="tips_exit_collab_going">Quitting collaboration...</string>
+    <string name="tips_remove_collaber_going">Removing...</string>
+
+    <string name="tips_has_exit_current_collab">You have quitted the collaboration</string>
+    <string name="known_outside_collaber_level">Know more about external roles</string>
+    <string name="choose_outside_collaber_level">Select external role</string>
+    <string name="outside_collaber_level">External Role</string>
+    <string name="collaber_level">Role</string>
+    <string name="choose_collaber_level">Select Role</string>
+    <string name="known_collaber_level">Know more about roles</string>
+    <string name="updating_collaber_level">Updating collaboration role...</string>
+    <string name="save_current_edit_or_not">Current edit hasn\'t been saved, are you sure to go back?</string>
+    <string name="update_collaber_level_success">Edit collaboration role successfully</string>
+
+    <string name="folder_will_appear_in_file_list">Once invitation accepted, the folder will be added to your file list</string>
+    <string name="choosed_contact_add_collab_at_this_level">All colleagues selected will join the collaboration as this collaboration role.</string>
+    <string name="add_words">Message</string>
+
+    <!-- 协作邀请 -->
+    <string name="invite_of_collab">Collaboration Invitation</string>
+    <string name="empty_collaber">No Collaborator</string>
+    <string name="words_limited">The message cannot be longer than %1$s characters</string>
+    <string name="words_most_num">%1$s characters at most</string>
+    <string name="select_at_least_one">Please select at least one colleague</string>
+    <string name="has_send_collab_by_num">Invitation has been sent to %1$d people (groups/departments)</string>
+    <string name="has_send_collab_when_error">Collaboration invitation has been sent to %1$d people, and %2$d people (groups/departments) are collaborators already</string>
+    <string name="please_enter_email">Please enter email address</string>
+    <string name="please_enter_valid_email">Please enter a valid email address</string>
+    <string name="collab_cant_invite_self">Cannot invite self as collaborator</string>
+    <string name="collab_outside_cant_invite_self">This email belongs to a colleague, and he has been invited as a collaborator</string>
+    <string name="collab_email_is_worker_and_in_collab">This email belongs to a colleague who is already a collaborator of current folder.</string>
+    <string name="collab_email_is_worker_and_in_collab_company">This email belongs to a colleague, and he has been invited as a collaborator</string>
+    <string name="email_has_in_collab">This email is already in the list of collaborators</string>
+    <string name="email_has_in_collab_outside">This email has already been invited as external collaborator</string>
+    <string name="invite_success">Invite successfully</string>
+    <string name="choose_collaber">Select collaborator</string>
+
+    <!-- 协作 编辑 角色 -->
+    <string name="editor">Editor</string>
+    <string name="viewer">Viewer</string>
+    <string name="previewer">Previewer</string>
+    <string name="uploader">Uploader</string>
+    <string name="previewer_uploader">Preview-uploader</string>
+    <string name="coowner">Co-owner</string>
+    <string name="viewer_uploader">View-uploader</string>
+    <string name="owner">Owner</string>
+
+    <!-- 协作 消息 -->
+    <string name="collab_title_info">%1$s invited you to join the collaboration</string>
+    <string name="collab_title_detail_info">%1$s invited you to join %2$s</string>
+    <string name="collab_title_info_group">%1$s invited your group \'%2$s\' to join the collaboration</string>
+    <string name="collab_title_info_department">%1$s invited your department \'%2$s\' to join the collaboration</string>
+    <string name="collab_info_title_info_group">%1$s invited your group to join %2$s</string>
+    <string name="collab_info_title_info_department">%1$s invited your department to join %2$s</string>
+    <string name="folder_type_department">department folder</string>
+    <string name="folder_type_collab">collaboration folder</string>
+    <string name="someone_share_folder_to_you">%1$s shared a folder to you</string>
+    <string name="someone_share_file_to_you">%1$s shared a file to you</string>
+    <string name="someone_share_folder_to_you_1">%1$s shared a folder to you</string>
+    <string name="someone_share_file_to_you_1">%1$s shared a file to you</string>
+    <string name="accept">Accept</string>
+
+    <string name="someone_at_you_with_bracket">[Mentioned you]</string>
+    <string name="voice_with_bracket">[Voice]</string>
+
+    <!-- review -->
+    <string name="review_edit">Edit Review</string>
+    <string name="review_member">Reviewers</string>
+    <string name="review_member_with_not_null">Reviewers (Required)</string>
+    <string name="promoter">Sender</string>
+    <string name="menu_view">Review</string>
+    <string name="sending">Sending</string>
+    <string name="edit">Edit</string>
+    <string name="has_been_sent">Review has been sent</string>
+    <string name="choose_reviewer">Select Reviewer</string>
+    <string name="cur_edit_not_save_back_or_not">Current edit hasn\'t been saved, are you sure to go back?</string>
+    <string name="updating_review_setting">Updating review settings</string>
+    <string name="must_add_one_or_more_reviewer">You need to add at least one reviewer</string>
+    <string name="reivew_title_words_limited">The review title cannot be longer than %1$d characters</string>
+    <string name="ps_words_limited">Message cannot be longer than %1$d characters</string>
+    <string name="ps_words">Message</string>
+    <string name="reviewer_cant_be_empty">Reviewer cannot be empty</string>
+    <string name="title_cant_be_empty">The title cannot be empty!</string>
+    <string name="must_has_one_or_more_worker">You need to add at least one colleague</string>
+    <string name="sending_review">Sending review</string>
+    <string name="send_review_success_and_see_in_message">Review has been sent (You can view it in Messages)</string>
+    <string name="confirm_delete_review_comment_or_not">Are you sure you want to delete?</string>
+    <string name="review_comment_not_exist">Thre review comment does not exist</string>
+    <string name="has_been_over">Ended</string>
+    <string name="has_ended">Expired</string>
+    <string name="review_ended_cant_preview">The review has expired, you cannot view file</string>
+    <string name="review_be_over_cant_preview">The review has ended, you cannot view file</string>
+    <string name="review_detail">Review Details</string>
+    <string name="review_invalid">Invalid review</string>
+
+    <string name="review_file">Review File(s)</string>
+
+    <!-- empty message -->
+    <string name="empty_comment">No comment</string>
+    <string name="empty_review">No review comment</string>
+    <string name="empty_message">No message</string>
+
+    <!-- comment list -->
+    <string name="report">Reply</string>
+    <string name="review_comment">Review Comments</string>
+    <string name="cliptext">%1$d more...</string>
+    <string name="comment_not_exist">The comment doesn\'t exist</string>
+    <string name="no_comment_permission_and_cant_recive_msg">has no permission to view your comment, and won\'t get any message</string>
+    <string name="comment_words_limit">Comment cannot be longer than %1$d characters</string>
+
+    <string name="no_access_to_file_of_comment">You have no permission to this file</string>
+    <string name="no_permission_view_comment">You have no permission to view the comments of this file</string>
+
+    <!-- 评论 语音 -->
+    <string name="button_press_too_short">Message too short</string>
+    <string name="record_fail">Failed to record</string>
+    <string name="please_open_record_right_by_ways">Please try to turn on recording permission using following methods</string>
+    <string name="record_slide_up_cancel">Slide up to cancel</string>
+    <string name="record_loosen_cancel">Release to cancel</string>
+    <string name="press_speek">Hold to Talk</string>
+
+    <!-- search -->
+    <string name="search">Search</string>
+    <string name="search_hit_numbers">%1$s related contents in total</string>
+    <string name="search_hit_names_create">Created by %1$s</string>
+    <string name="search_hit_names_modify">Modified by %1$s</string>
+
+    <!-- cache -->
+    <string name="cache_setting">Cache setting</string>
+    <string name="cache_space">Cache Size</string>
+    <string name="cache">Cache</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="cache_clear_finish">Cache cleaned</string>
+    <string name="cache_clear_dont_affect_offline_files">Clearing cache won\'t affect offline files</string>
+
+    <!-- setting items -->
+    <string name="download_only_in_wify_model">Upload/Download/Offline only when connected to Wi-Fi</string>
+    <string name="keep_login_state">Keep signed in</string>
+    <string name="viewer_doc_model">Word/PDF preview mode</string>
+    <string name="viewer_ppt_model">PPT preview mode</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="userdetail">Account Details</string>
+    <string name="filelist">File List</string>
+
+    <string name="getting_user_info">Getting user information</string>
+    <string name="contact_customer_service">Contact our customer service team</string>
+    <string name="check_update">Check for update</string>
+    <string name="feedback">Suggestion &amp; Feedback</string>
+
+    <string name="show_language">Language Settings</string>
+
+    <!-- 时间 -->
+    <string name="time_hour_1">1 Hour</string>
+    <string name="time_hour_12">12 Hours</string>
+    <string name="time_hour_24">24 Hours</string>
+    <string name="time_day_7">7 Days</string>
+
+
+
+    <!-- 预览失败的原因 -->
+    <string name="preview_not_supported">Preview is not supported for current file format</string>
+    <string name="file_empty_cant_preview">Cannot preview due to empty file</string>
+    <string name="file_exception_cant_preview">Cannot preview due to abnormal file</string>
+    <string name="image_resolution_too_high_cant_preview">Image resolution exceeds the limit, please download to preview</string>
+    <string name="not_provide_preview_contact_service">Preview is not available temporarily, please contact our customer service team</string>
+    <string name="back_and_refresh_then_preview">Please return to the file list and refresh to view</string>
+
+    <string name="password_invalid">Incorrect Password</string>
+    <string name="collab_invitation_already_answered">Collaboration invitation accepted</string>
+    <string name="exception_access_denied">Permission denied</string>
+
+    <string name="exception_data_source_get_fail">Failed to get data resource!</string>
+    <string name="exception_time_out_and_retry">Timeout, please retry...</string>
+    <string name="invalid_item_info">The file doesn\'t exist</string>
+
+    <string name="sure_complete_review">Are you sure you want to end this review? The reviewer cannot view files or reply once ended, and you have to send a new review if necessary.</string>
+    <string name="complete_review">End Review</string>
+    <string name="expired">Expired</string>
+    <string name="completed">Expired</string>
+    <string name="sure_unsharelink">Are you sure you want to delete share link?</string>
+    <string name="this_file_can_not_preview">Preview is not supported for current file format</string>
+    <string name="tips_doubleclick_show_filename">Double click here to view the full name of file</string>
+
+    <string name="tips_browser_more">Enjoy More Features</string>
+
+    <!-- 手机存储不足 -->
+    <string name="no_more_frees_pace_to_preview">No enough storage space in the phone, please preview after cleanup</string>
+
+    <string name="restore_fail_no_more_free_space">Failed to restore, no enough storage space</string>
+    <string name="open_fault">Failed to open file</string>
+
+    <string name="continue_download">Continue Downloading</string>
+
+    <string name="close">Close</string>
+
+    <!-- 组织架构 -->
+    <string name="organization">Department Structure</string>
+    <string name="enterprise">Enterprise</string>
+    <string name="my_department">My Department</string>
+    <string name="delete_user_from_company">Delete this member from enterprise</string>
+    <string name="organization_loading">Loading enterprise structure...</string>
+    <string name="department_not_exist">The department doesn\'t exist</string>
+    <string name="department_manager_with_bracket">(Director)</string>
+    <string name="not_active_with_bracket">(Nonactivated)</string>
+    <string name="not_accepted_with_bracket">(Unaccepted)</string>
+    <string name="member_by_count">%1$d people</string>
+    <string name="member_by_count_with_bracket">(%1$d)</string>
+    <string name="include_me_with_bracket">(Including Me)</string>
+    <string name="me_with_bracket">(Me)</string>
+    <string name="department_belong">, belongs to %1$s</string>
+
+    <string name="gtoup_detail">Group detail</string>
+    <string name="group_manager_with_bracket">(Group Admin)</string>
+
+    <string name="name_cant_contain_characters">The name cannot contain following characters</string>
+
+    <!-- 推送 -->
+    <string name="push_str_inviter_added">: %1$s has joined your enterprise via invitation link</string>
+    <string name="push_str_receive_review_msg">: You received a review message</string>
+    <string name="push_str_receive_comment_msg">: You have a new comment message</string>
+    <string name="push_str_receive_share_msg">: You have a new share message</string>
+    <string name="push_str_receive_collab_msg">: You have a new collaboration message</string>
+
+    <!-- UserGuide -->
+    <string name="tips_all_collab_folder_here">All folders you have been invited to for collaboration will be listed here</string>
+    <string name="tips_all_collab_folder_here_with_permission">All files (folders) you created will be listed here, and only you and their collaborators can access them</string>
+    <string name="tips_all_department_folder_here">The department folders that you can access will be listed here</string>
+    <string name="tips_collab_folder_here">The folders that you can access will be listed here</string>
+
+    <string name="tips_all_folder_userguide_1">Click to switch between All Files and Offline Files quickly</string>
+
+    <string name="tips_contact_userguide_see_detail">Click here to view information of your colleague</string>
+
+    <string name="tips_all_folder_userguide_item_more_menu">Access more features of the file here</string>
+    <string name="tips_message_userguide">Click here to view all of your message</string>
+
+
+    <string name="phone_number_not_correct">Incorrect phone number</string>
+
+    <!-- 更新 -->
+    <string name="update_api_version_to_low">Current version is no longer supported, please update to continue using</string>
+    <string name="update_has_been_latest_version">No update available</string>
+    <string name="update_immediately">Update Now</string>
+    <string name="update_version_name_with_colon">Version:</string>
+
+    <!-- 上传文件 -->
+    <string name="upload_exception_folder_not_exist">The folder doesn\'t exist, please retry uploading</string>
+    <string name="upload_exception_permission_denied">Permission denied, cannot complete this operation</string>
+    <string name="upload_exception_original_not_exist">The original file doesn\'t exist, please upload again</string>
+    <string name="folder_not_exist_and_rechoose">The folder you selected does not exist, please choose another one</string>
+    <string name="no_permission_and_rechoose">Permission denied, please re-select</string>
+    <string name="check_num_of_all_files">View all files (%1$d in total)</string>
+
+    <!-- userinfo -->
+    <string name="confirm_exit_or_not">Are you sure you want to quit?</string>
+    <string name="exiting">Quitting...</string>
+    <string name="update_avatar_success">Upload successfully</string>
+    <string name="update_avatar_fail">Failed to upload</string>
+    <string name="update_success">Update successfully</string>
+    <string name="update_fail">Failed to update</string>
+    <string name="space_used">%1$s used</string>
+    <string name="no_limited">No limit</string>
+    <string name="space_available">available</string>
+    <string name="see_account_detail">View Account Details</string>
+
+    <string name="folder_name_cant_contain_characters">File/folder name cannot contains following characters</string>
+
+    <string name="please_enter_exist_demo_account">Please enter an existing experience account</string>
+    <string name="set_new_validity">Set expiration time</string>
+
+
+    <!-- File List -->
+    <string name="no_permission_preview">Current user has no permission to preview</string>
+    <string name="personal_user_cant_review">This feature is not available as your account is a personal account</string>
+    <string name="only_file_can_review">Only files can be used in review</string>
+    <string name="cant_delete_some_files_locked">Cannot delete (one or more files are locked)</string>
+    <string name="file_be_locked">Cannot complete this operation (file locked)</string>
+
+    <string name="origin_folder_not_exist_save_to_root">Original folder doesn\'t exist; the file (folder) has been restored to root folder</string>
+
+    <string name="refreshing_file_list">Refreshing file list</string>
+
+    <string name="completely_delete_folder_or_not">Are you sure you want to delete the selected folder(s) permanently?</string>
+    <string name="completely_delete_file_or_not">Are you sure you want to delete the selected file(s) permanently?</string>
+    <string name="confirm_delete_folder_or_not">Are you sure you want to delete the folder?</string>
+    <string name="confirm_delete_file_or_not">Are you sure you want to delete this file?</string>
+    <string name="file_move_trash_save_days">Files would be moved to trash after deleted (Reserved for %1$d days)</string>
+
+    <string name="folder_not_exist_or_deleted">Folder not exist or has been deleted</string>
+    <string name="image_not_exist_or_deleted">Image not found or deleted</string>
+
+    <string name="cancel_mark_success">Removed from favorites</string>
+    <string name="add_mark_success">Added to favorites</string>
+    <string name="renaming">Renaming...</string>
+    <string name="file_name_modify_success">Rename successfully</string>
+    <string name="creating_folder">Creating folder...</string>
+    <string name="create_folder_success">Folder created successfully</string>
+
+    <string name="file_offline_going">Offline downloading</string>
+    <string name="file_offline_going_and_wait">Offline downloading the file, please wait a moment...</string>
+    <string name="offline_success">Make offline available successfully</string>
+    <string name="cancel_offline_success">Removed from offline</string>
+    <string name="confirm_cancel_offline_file_or_not">Are you sure you want to remove this file from offline?</string>
+    <string name="waiting_for_offline">Waiting for making offline available</string>
+    <string name="wait_for_offline">Wait for offline downloading</string>
+    <string name="offline_fail_and_retry">Failed to make offline available, click to try again</string>
+    <string name="offline_fail">Failed to make offline available</string>
+    <string name="confirm_cancel_offline_or_not">Are you sure you want to cancel offline?</string>
+
+    <string name="waiting_for_upload">Preparing for upload</string>
+    <string name="wait_for_upload">Wait for upload</string>
+    <string name="upload_fail_and_retry">Failed to upload, click to try again</string>
+    <string name="upload_fail">Failed to upload</string>
+    <string name="confirm_cancel_file_upload_or_not">Are you sure you want to cancel uploading?</string>
+    <string name="upload_going">Uploading</string>
+
+    <string name="be_completed">Completed</string>
+
+    <string name="directory_without_any_folders">No sub-folder in current folder</string>
+
+
+    <string name="has_been_latest_version">No new version available</string>
+    <string name="updating_file">Updating file...</string>
+
+
+
+    <string name="image_saving_to_photo_album">Saving</string>
+    <string name="image_save_to_photo_album_success">The image has been saved</string>
+    <string name="image_save_to_photo_album_fail">Failed to save to album</string>
+
+    <string name="personal_user_cant_use_feature">This feature is not available as your account is a personal account</string>
+
+    <string name="look_over">View</string>
+    <string name="new_message">New Message</string>
+
+    <string name="no_access_to_open_folder">Permission denied to open this folder</string>
+    <string name="no_access_to_preview_file">Permission denied to preview this file</string>
+
+    <string name="has_no_offline_task">No offline records</string>
+    <string name="has_no_upload_task">No upload records</string>
+    <string name="offline_going">Offline downloading</string>
+
+    <string name="file_location_folder">Parent folder:</string>
+
+    <!-- 在 file_blank_page.xml 中用到 -->
+    <string name="folder_empty_title">No file</string>
+    <string name="folder_empty_upload_tips">Click top right button to upload</string>
+
+    <string name="tips_marked_folder_empty_1">Add file (folder) to favorites</string>
+    <string name="tips_marked_folder_empty_2">Find it quickly whenever needed</string>
+
+    <string name="tips_offline_empty">Make file offline available \n to preview without network</string>
+
+    <string name="history_version_tip">After uploading new version on the web, the history version of the file will appear here</string>
+
+    <string name="no_file">No file</string>
+
+    <string name="still_continue">Continue Anyway</string>
+
+    <!-- 文件存储 -->
+    <string name="max_files_upload_one_time">300 files at most in one upload</string>
+    <string name="not_find_pictures">No image found</string>
+    <string name="picture_by_count">%1$d Picture(s)</string>
+    <string name="not_select_picture">No image file selected</string>
+    <string name="no_external_storage">No external storage available</string>
+    <string name="choose_pictures">Select Image</string>
+    <string name="save_pictures">Save Image</string>
+    <string name="save_position">Save To</string>
+    <string name="choose_other_folder">Select another folder</string>
+    <string name="file_been_deleted">The file has been deleted</string>
+
+    <string name="choose_from_media">Select from Media</string>
+
+    <string name="no_labels">No Tag</string>
+
+    <!-- 登录 注册 -->
+    <string name="creating_demo_account">Creating demo account</string>
+    <string name="logining">Signing in</string>
+    <string name="invalid_email_and_contact_your_admin">Invalid email address, please contact the admin of your enterprise</string>
+
+    <string name="log_out">Sign Out</string>
+    <string name="demo_user_email_tips">Your demo account is %1$s</string>
+    <string name="demo_can_use_for_24h">(Valid for 24 Hours)</string>
+
+    <string name="start_experience">Start your journey</string>
+    <string name="demo_guide_tip_1">1. You can preview more than 100 file formats. Besides common Office(Word, PPT, Excel) files, professional formats like EPS, AI, CAD, PSD files are also supported.</string>
+    <string name="demo_guide_tip_2">2.You can try full-text search here, quickly locate your file by entering title or content.</string>
+    <string name="demo_guide_tip_3">3.You can easily share your file or folder via WeChat and QQ.</string>
+
+    <string name="forget_pwd_tip_1">Enter your email address to set password</string>
+    <string name="forget_pwd_tip_2">You can also try the spam folder</string>
+    <string name="forget_pwd_tip_3">You can contact the admin of your enterprise or customer service team of FangCloud if you have any question.</string>
+
+    <string name="password_hint">Password (8-32 characters, contains letters and digits at the same time)</string>
+    <string name="send_inviter_link">Send invitation link</string>
+    <string name="edit_invite_link">Create invitation link and send</string>
+    <string name="update_invite_link">Updating invitation link</string>
+    <string name="creating_link">Creating link</string>
+    <string name="confirm_del_invite_link_or_not">Are you sure you want to delete this invitation link?</string>
+    <string name="invite_link">Invitation Link</string>
+    <string name="register">Register</string>
+    <string name="register_at_once">Register Now</string>
+    <string name="enter_demo_account">Demo Account</string>
+    <string name="not_for_this_time">Not Now</string>
+    <string name="submiting">Submitting</string>
+    <string name="send_success">Send successfully</string>
+    <string name="cancel_register_or_not">Are you sure you want to cancel registration?</string>
+
+    <string name="validity">Expiration Time</string>
+    <string name="expire_by_days">Expire in %1$s</string>
+    <string name="invite_link_expired_and_reset_validity">The invitation link has expired, please set a new expiration time</string>
+    <string name="invite_link_cppy_to_clipboard">The invitation link has been copied to the clipboard</string>
+    <string name="scan_qr_code_join_company">Your colleagues can scan the QR code to join your enterprise.</string>
+
+    <!-- SplashPageActivity -->
+    <!-- SplashPageActivity -->
+    <string name="splash_page_1_tip_1">Easily view your files</string>
+    <string name="splash_page_1_tip_2">Preview more than 100 formats</string>
+    <string name="splash_page_1_tip_3">Support full-text search, locate your file quickly</string>
+
+    <string name="splash_page_2_tip_1">Push notification for message</string>
+    <string name="splash_page_2_tip_2">Push notifications for related messages</string>
+    <string name="splash_page_2_tip_3">Join the collaboration at first time</string>
+
+    <string name="splash_page_3_tip_1">View your files even when you\'re offline</string>
+    <string name="splash_page_3_tip_2">Support previewing even when you\'re offline</string>
+    <string name="splash_page_3_tip_3">Preview easily even without network</string>
+
+    <string name="splash_page_4_tip_1">Share easily and quickly</string>
+    <string name="splash_page_4_tip_2">Take files with you anywhere and share to colleagues or clients quickly and easily</string>
+    <string name="splash_page_4_tip_3">Sharing via WeChat or email easily and conveniently</string>
+
+
+    <string name="msg_get_failed">Failed to get information</string>
+
+    <string name="tips_network_cost_mobile_traffic">This action may cost a lot data usage, continue?</string>
+
+    <string name="reading">Loading...</string>
+    <string name="must_fill">Required</string>
+
+    <string name="enterprise_file_management_experts">Enterprise Content Management Expert</string>
+
+    <string name="copied_to_clipboard">The link has been copied to clipboard</string>
+
+    <string name="desc_extersion_upload">You can save the file to an existing folder in %1$s or create a new one to save</string>
+    <string name="demo_guid_register_tips">Register FangCloud account to enjoy more powerful features</string>
+    <string name="welcome_to_demo">Welcome to experience FangCloud</string>
+    <string name="desc_edit_tag_from_web">You can add or edit tags on the web</string>
+    <string name="desc_edit_tag_from_web_empty">You can add tags on the web</string>
+    <string name="desc_web_edit_role">The permission of the collaborator in current folder is the union of his permissions in current folder and all parent folders.\nYou can change his collaboration role on the web.</string>
+    <string name="desc_invite_outside_collab">The invitee will receive an email, he could join the collaboration after confirmation (The invitee would be led to register if he doesn\'t have account). \nThe highest role of external collaborator is editor.</string>
+    <string name="desc_invitelink_create">You can send invitation link to your friends via WeChat or QQ (or any other way), and the receiver can register a %1$s account and join your enterprise through the link.</string>
+
+    <string name="delete_at_sometime">Deleted at %1$s</string>
+    <string name="tips_to_edit">Click to enter</string>
+    <string name="need_verify">Unverified</string>
+
+    <!-- 下载源文件 -->
+    <string name="tips_download_network_cost_mobile_traffic">It may take more network data usage to download original file, are you sure to continue?</string>
+    <string name="download_fail_and_retry">Failed to download, please try again</string>
+    <string name="no_more_frees_pace_to_download">No enough storage space in the phone, please download again after cleanup</string>
+    <string name="no_network_available_to_download">Network connection is lost, please check your network and retry downloading</string>
+    <string name="download_only_wifi">Current settings only allow downloading under Wi-Fi, please go to \"Settings\" if you want to change</string>
+
+    <string name="phone_not_public">Undisclosed</string>
+
+    <string name="time_just">Just now</string>
+    <string name="time_second_before">%1$d second(s) ago</string>
+    <string name="time_mininute_before">%1$d minute(s) ago</string>
+    <string name="time_hour_before">%1$d hour(s) ago</string>
+    <string name="yesterday">yesterday</string>
+    <string name="day_before_yesterday">the day before yesterday</string>
+
+    <string name="move_going_on">Moving</string>
+    <string name="copy_going_on">Copying</string>
+    <string name="has_copy_to_target_folder">Copied to target folder</string>
+    <string name="has_move_to_target_folder">Moved to target folder</string>
+
+    <string name="time_format_day">%1$s day(s)</string>
+    <string name="time_format_hour">%1$s hour(s)</string>
+    <string name="time_format_minute">%1$s minute(s)</string>
+    <string name="time_format_second">%1$s second(s)</string>
+
+    <string name="update_find_new_version">New version available</string>
+    <string name="update_version_number">Version:</string>
+    <string name="update_apk_size">Size:</string>
+    <string name="update_desc">What\'s New:</string>
+    <string name="update_ignore_this_version">Ignore this version</string>
+    <string name="update_temporarily_not_update">Not Now</string>
+    <string name="update_right_not">Update Now</string>
+    <string name="update_has_found">New version available</string>
+    <string name="update_going">Updating %1$s</string>
+    <string name="update_download_progress">Downloading: %1$s</string>
+    <string name="update_download_success_click_install">Download completed, click to install</string>
+    <string name="update_download_failed">Failed to download (Network error), click to retry</string>
+    <string name="update_version_info">Version Info:</string>
+</resources>
